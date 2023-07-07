@@ -3,16 +3,12 @@
 
 It's A Scrapper Build With Python , Django Web Server 
 to Monitor The Records Throw django-admin
+base on Selenium
 
 
+ues Docker For install selenium Driver , and chrome will install
+automatic
 
-Installation
-------------
-    pip install -r req.txt
-    python manage.py migrate
-    python manage.py runserver
-
-go to http://localhost:8000
 
 Using Docker
 ------------
@@ -83,3 +79,8 @@ for observe inserted data
 this api will show you only 50 cars
 
 **Images**
+![Style](images/terminal.png)
+![Style](images/list.png)
+![Style](images/djangoadmin.png)
+![Style](images/api.png)
+

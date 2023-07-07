@@ -79,6 +79,7 @@ for observe inserted data
 this api will show you only 50 cars
 
 **Images**
+
 ![Style](images/terminal.png)
 ![Style](images/list.png)
 ![Style](images/djangoadmin.png)

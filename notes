@@ -1,0 +1,12 @@
+docker build -t scrapper .
+docker run scrapper
+
+docker run -p 8080:8000 scrapper
+
+docker run -it -p 8080:8000 scrapper
+
+docker exec -it 5300e0e1115e /bin/bash
+python manage.py createsuperuser
+
+docker ps
+docker stop <id>
